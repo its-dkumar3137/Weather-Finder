@@ -12,11 +12,12 @@ body, html{
 }
 
 .bgimage{
-  background: url(/images/bg.avif);
+  background: url(images/bg.png);
   background-size: cover;
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
+  /* background-size: cover; */
   filter: blur(8px);
   -webkit-filter: blur(8px);
 }
@@ -30,7 +31,7 @@ body, html{
   border: 5px solid rgb(15, 139, 240);
   border-radius: 20px;
   box-shadow: 1px 1px 40px rgb(15, 139, 240);
-  background: url(/images/bg.avif);
+  background: url(images/bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
