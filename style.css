@@ -35,6 +35,7 @@ body, html{
   background-position: center;
   background-repeat: no-repeat;
   overflow: hidden;
+  background-size: auto;
   /* filter: blur(1px);
   -webkit-filter: blur(1px); */
 
